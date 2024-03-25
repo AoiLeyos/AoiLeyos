@@ -1,5 +1,5 @@
 - Hey welcome here
 - I'm AoiLeyos a junior web dev'
-- Actually studiyng at Simplon [![image](https://github.com/AoiLeyos/AoiLeyos/assets/160428056/01acef3a-05f1-4c40-be56-5f47f2519d2d)(https://simplon.co/]
+- Actually studiyng at Simplon 
 
-- You can contact me with my [mail](Romdz01@gmail.com)
+- You can contact me with my <a href="https://simplon.co/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEX/////+fz4x9PyobLviZ/uhJrxkqf0sMD72+TqUnbiADLhADPiADjiADriAD3iADbhAC/jAEX97vPnNWLiAD/jAEPzprjhAC7lIVfkAEnue5XjAD/85+7kEE72vMrsaIfpTXLoQ2vlHFTuf5f61d7sb4vhACj1tsXnN2P+8vfqW3y+x3VbAAABdElEQVR4AWKgLgDQTRVIDgMxbMJNFtWzw3BQ/v//juKUmyGzJa0ThFGcpNnqRTrMC6WNNc4jXj+mV2+eIB8bH9/ny4oAtk4pZxlgV98OiSuAVdNmYZi1jWKAuv6mHzDDuLjjYABCcNlfAWq6njgpwL6f3TeCa28xtQ7wy8jQgz7uUX8Q+FPsnOAFUZokX5t/q/eAD2f9CnTbZZmzu/1sbjvYeW+ooEIpOBCcFIQKXP9bkYYKlgn6PCFQYDeLZHhYoKVfSbsRe2D4fzkTK6Puvk8W7Knh5llBwyiOf0bmxPibtt1OsuJYgLtZaA81XkBWAnJUIBEbTKdHmieCjuStDSo5s9oZobmqgEpuYu2ZhEeUpulcWxPs+YFjB3O6pXAy4EIGzOX6I7ikgw8NVOUlsO4InYkCSUemA4qbC+lhwdrlaVmmudMMru4uKMg9g8lobYgBW5QPyo6f3jIDYNLVtH76a7W1877o3qOnaYHbH39GYoYGAJlcHCNd2PCUAAAAAElFTkSuQmCC" title="Symplon" alt="Symplon"></a>
