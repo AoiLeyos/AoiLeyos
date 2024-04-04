@@ -1,6 +1,6 @@
 # Hey welcome here
 
-- I'm AoiLeyos web dev'
+- I'm AoiLeyos web developpeur
 
 - You can contact me with my <a href="mailto:romdz01@gmail.com" target="_blank">mail</a>
 
