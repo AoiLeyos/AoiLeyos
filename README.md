@@ -1,4 +1,13 @@
-<h1> Hey i'm AoiLeyos a front-end dev-web developpeur</h1>
+<h1> Hey welcome</h1>
+<p>
+ i'm AoiLeyos a front-end dev-web developpeur
+</p>
+
+<p>
+ contact me <a href="mailto:romdz01@gmail.com" target="_blank">mail</a>
+</p>
+ 
+
 
 <table>
  <thead>
