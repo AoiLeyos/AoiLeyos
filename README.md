@@ -30,6 +30,4 @@
 </table>
 
 
-![Mail](https://img.shields.io/badge/Mail-romdz01%40gmail.com-blue)
-
 
