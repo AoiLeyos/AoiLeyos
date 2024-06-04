@@ -1,6 +1,15 @@
 <h1> Hey i'm AoiLeyos a front-end dev-web developpeur
 
+<table>
+<thead>
+ <tr>
+  <th>Languages</th>
+  <th>Tools</th>
+ </tr>
+</thead>
 
+ 
+</table>
  
 
 <p>
